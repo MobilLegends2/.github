@@ -18,12 +18,12 @@ Currently, our team is focused on developing a Software Development Kit (SDK) fo
 
 Meet the talented individuals behind MobileLegendz:
 
-[**Aymen Zouaoui**](https://github.com/aymenzouaoui)
-[**Mohamed Arafet Ksiksi**](https://github.com/arafetksiksii)
-[**Adem Seddik**](https://github.com/ademseddik) 
-[**Amine Ayari**](https://github.com/amine3b5) 
-[**Walid Bouzouita**](https://github.com/Walidbouzouita)
-[**Mohamed Kout**](https://github.com/Mohamedkout15) 
+[**Aymen Zouaoui**](https://github.com/aymenzouaoui)<br>
+[**Mohamed Arafet Ksiksi**](https://github.com/arafetksiksii)<br>
+[**Adem Seddik**](https://github.com/ademseddik)<br>
+[**Amine Ayari**](https://github.com/amine3b5) <br>
+[**Walid Bouzouita**](https://github.com/Walidbouzouita)<br>
+[**Mohamed Kout**](https://github.com/Mohamedkout15) <br>
 
 ## Get in Touch
 
